@@ -8,7 +8,7 @@ servers:
 paths:
   /sample:
     get:
-      summary: サンプル
+      summary: サンプルHOGEHOGE
       operationId: sample
       responses:
         '200':
