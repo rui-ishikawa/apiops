@@ -13,6 +13,13 @@ paths:
       responses:
         '200':
           description: 
+  /test-ishikawa:
+    get:
+      summary: テスト石川
+      operationId: test-ishikawa
+      responses:
+        '200':
+          description: 
 components:
   securitySchemes:
     apiKeyHeader:
