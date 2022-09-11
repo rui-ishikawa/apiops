@@ -12,6 +12,6 @@
 	</backend>
 	<outbound>
 		<base />
-		<cache-store duration="360" />
+		<cache-store duration="{{CacheStoreDuration}}" />
 	</outbound>
 </policies>
