@@ -12,6 +12,6 @@
 	</backend>
 	<outbound>
 		<base />
-		<cache-store duration="3600" />
+		<cache-store duration="360" />
 	</outbound>
 </policies>
