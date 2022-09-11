@@ -1,0 +1,8 @@
+apimServiceName: apiserviceucybmy7vlhi6a
+namedValues:
+  - name: BackendURL
+    displayName: バックエンドURL
+    value: https://sample2.com
+  - name: CacheStoreDuration
+    displayName: キャッシュ時間
+    value: 720
