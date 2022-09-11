@@ -9,17 +9,11 @@ paths:
   /sample:
     get:
       summary: サンプルHOGEHOGE
+      description: サンプルHOGEHOGE
       operationId: sample
       responses:
         '200':
-          description: 
-  /test-ishikawa:
-    get:
-      summary: testishikawa
-      operationId: testishikawa
-      responses:
-        '200':
-          description: 
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:
