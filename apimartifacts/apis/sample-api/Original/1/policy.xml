@@ -1,0 +1,12 @@
+<policies>
+	<inbound>
+		<base />
+        <set-backend-service base-url="http://contoso.com/api/8.2/" />
+	</inbound>
+	<backend>
+		<base />
+	</backend>
+	<outbound>
+		<base />
+	</outbound>
+</policies>
