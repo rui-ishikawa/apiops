@@ -15,8 +15,8 @@ paths:
           description: 
   /test-ishikawa:
     get:
-      summary: テスト石川
-      operationId: test-ishikawa
+      summary: testishikawa
+      operationId: testishikawa
       responses:
         '200':
           description: 
