@@ -22,6 +22,14 @@ paths:
       responses:
         '200':
           description: ''
+  /sample2-new:
+    get:
+      summary: sample2
+      description: sample2-new
+      operationId: sample2-new
+      responses:
+        '200':
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:
