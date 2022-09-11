@@ -1,0 +1,11 @@
+<policies>
+	<inbound>
+		<base />
+	</inbound>
+	<backend>
+		<base />
+	</backend>
+	<outbound>
+		<base />
+	</outbound>
+</policies>
