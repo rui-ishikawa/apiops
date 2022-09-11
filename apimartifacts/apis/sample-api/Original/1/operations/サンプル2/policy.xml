@@ -1,6 +1,7 @@
 <policies>
 	<inbound>
 		<base />
+		<rewrite-uri template="/resource" />
 	</inbound>
 	<backend>
 		<base />
